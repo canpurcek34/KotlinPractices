@@ -17,7 +17,6 @@ fun main() {
     println(fruits.size)
     println(fruits.isEmpty())
 
-
     for (fru in fruits){
         println("Fruit: $fru")
     }
@@ -31,4 +30,5 @@ fun main() {
 
     fruits.clear()
     println(fruits.isEmpty())
+
 }

@@ -31,5 +31,4 @@ fun main() {
     provinces.clear()
     println(provinces.isEmpty())
 
-
 }

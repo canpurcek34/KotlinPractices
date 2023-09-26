@@ -23,6 +23,8 @@ fun main() {
         println("Second number not will be zero!")
     }
 
+
+
     println("***if there is error***")
     a = 10
     b = 0
@@ -35,4 +37,5 @@ fun main() {
     }catch (e:Exception){
         println("Second number not will be zero!")
     }
+
 }
